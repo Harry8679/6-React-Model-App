@@ -1,0 +1,17 @@
+.intro-section {
+    background: rgb(68, 9, 121);
+    background: linear-gradient(
+        120deg,
+        rgba(68, 9, 121, 1) 41%,
+        rgba(38, 9, 121, 1) 57%,
+    );
+}
+
+.intro {
+    img {
+        width: 10rem;
+        height: 10rem;
+        border: 1px solid transparent;
+        border-radius: 50%;
+    }
+}
