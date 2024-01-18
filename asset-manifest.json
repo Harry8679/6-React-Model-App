@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/6-React-Model-App/static/css/main.923effa2.css",
+    "main.js": "/6-React-Model-App/static/js/main.f291f54a.js",
+    "static/media/8888.jpg": "/6-React-Model-App/static/media/8888.5387add584c06c5a36e8.jpg",
+    "index.html": "/6-React-Model-App/index.html",
+    "main.923effa2.css.map": "/6-React-Model-App/static/css/main.923effa2.css.map",
+    "main.f291f54a.js.map": "/6-React-Model-App/static/js/main.f291f54a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.923effa2.css",
+    "static/js/main.f291f54a.js"
+  ]
+}
